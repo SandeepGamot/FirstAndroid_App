@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Justjava</string>
+    <string name="name">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quanitiy">QUANITIY</string>
+    <string name="minus_text">-</string>
+    <string name="plus_text">+</string>
+    <string name="default_quantity_2">2</string>
+    <string name="order">ORDER</string>
+    <string name="max_coffee_toast">That\'s Enough Coffee for a Day You Junkie!</string>
+    <string name="min_coffee_toast">You cannot have less than 1 Coffee</string>
+    <string name="include_whipped_cream_order_summary">Include Whipped Cream?</string>
+    <string name="quantity_order_summary">Quantity:</string>
+    <string name="name_order_summary">Name:</string>
+    <string name="include_chocolate_order_summary">Include Chocolate?</string>
+    <string name="intent_mail_subject">Are You Awesome or What?</string>
+    <string name="intent_mail_to_field"><xliff>sandygamot77@gmail.com</xliff></string>
+    <string name="thank_you">Thank You!</string>
+</resources>

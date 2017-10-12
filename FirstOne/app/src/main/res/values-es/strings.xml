@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solo Java</string>
+    <string name="chocolate">Chocolate-es</string>
+    <string name="include_chocolate_order_summary">addChoclate-es</string>
+    <string name="include_whipped_cream_order_summary">addCream-es</string>
+    <string name="intent_mail_subject">yeah awesome in es</string>
+    <string name="max_coffee_toast">stop it you junkie -es</string>
+    <string name="min_coffee_toast">seriuosly u want a free drink?-es</string>
+    <string name="name">Nombre</string>
+    <string name="name_order_summary">Nombre:</string>
+    <string name="order">order amigo</string>
+    <string name="quanitiy">quantity - es</string>
+    <string name="quantity_order_summary">Quantity:-es</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="toppings">Ingridenties</string>
+    <string name="whipped_cream">Cream Batida</string>
+    <string name="intent_mail_to_field">sandygamot77@gmail.com</string>
+</resources>
